@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "999681008393",
+    "firebase_url": "https://chronometer-d60ce.firebaseio.com",
+    "project_id": "chronometer-d60ce",
+    "storage_bucket": "chronometer-d60ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999681008393:android:cc9d33efccc314f1c669d8",
+        "android_client_info": {
+          "package_name": "com.example.chronometer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999681008393-vfrqitha2sfsdiqc09c3apv664vgf8i9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chronometer",
+            "certificate_hash": "4ea200a8f366c0c9443d7b0255d625abc87c2e97"
+          }
+        },
+        {
+          "client_id": "999681008393-km4e6jsjgljfeb8slphu6mir6fbihfnt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm8a-TBU8mNoDwb5Pt9Zfz8C6IOkcXRYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999681008393-km4e6jsjgljfeb8slphu6mir6fbihfnt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
